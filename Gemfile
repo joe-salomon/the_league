@@ -11,6 +11,7 @@ gem "autoprefixer-rails"
 gem "flutie"
 gem "honeybadger"
 gem "jquery-rails"
+gem 'normalize-rails'
 gem "pg", "~> 0.18"
 gem "puma"
 gem "rack-canonical-host"

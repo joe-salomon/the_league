@@ -150,6 +150,7 @@ GEM
     nio4r (2.3.1)
     nokogiri (1.8.4)
       mini_portile2 (~> 2.3.0)
+    normalize-rails (4.1.1)
     pg (0.21.0)
     pry (0.11.3)
       coderay (~> 1.1.0)
@@ -311,6 +312,7 @@ DEPENDENCIES
   launchy
   listen
   neat (~> 2.1)
+  normalize-rails
   pg (~> 0.18)
   pry-byebug
   pry-rails
