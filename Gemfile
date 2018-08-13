@@ -9,7 +9,6 @@ ruby "2.5.1"
 
 gem "autoprefixer-rails"
 gem "flutie"
-gem "honeybadger"
 gem "jquery-rails"
 gem 'normalize-rails'
 gem "pg", "~> 0.18"
