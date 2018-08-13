@@ -17,6 +17,7 @@ gem "rack-canonical-host"
 gem "rails", "~> 5.2.0"
 gem "recipient_interceptor"
 gem "sass-rails", "~> 5.0"
+gem 'slim', '~> 3.0', '>= 3.0.6'
 gem "sprockets", ">= 3.0.0"
 gem "title"
 gem "uglifier"
