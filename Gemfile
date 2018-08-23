@@ -23,6 +23,7 @@ gem "title"
 gem "uglifier"
 gem "bootsnap", require: false
 gem 'webpacker'
+gem 'httparty', '~> 0.16.2'
 
 group :development do
   gem "listen"
