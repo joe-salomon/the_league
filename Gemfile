@@ -24,6 +24,7 @@ gem "uglifier"
 gem "bootsnap", require: false
 gem 'webpacker'
 gem 'httparty', '~> 0.16.2'
+gem 'simple_interactor', '~> 1.0.0'
 
 group :development do
   gem "listen"
