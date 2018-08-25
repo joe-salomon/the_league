@@ -321,6 +321,7 @@ DEPENDENCIES
   launchy
   listen
   neat (~> 2.1)
+  nokogiri
   normalize-rails
   pg (~> 0.18)
   pry-byebug
@@ -352,4 +353,4 @@ RUBY VERSION
    ruby 2.5.1p57
 
 BUNDLED WITH
-   1.16.2
+   1.16.4
