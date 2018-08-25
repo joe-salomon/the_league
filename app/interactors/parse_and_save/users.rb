@@ -1,6 +1,6 @@
 class ParseAndSave::Users < SimpleInteractor
 
-  expected_params :league_data
+  expected_params :league_data, :save
 
   def perform
     return response if invalid_league_data?  
@@ -18,7 +18,7 @@ class ParseAndSave::Users < SimpleInteractor
   
   def find_or_create_users
     @new_user_count = 0
-    @league_members.each{|member| find_or_create_user(member)}
+    @league_members.each{|member| find_or_create_user(member)} if @save
   end
   
   def find_or_create_user(member)
@@ -27,6 +27,7 @@ class ParseAndSave::Users < SimpleInteractor
       user.last_name      = member[:lastName]
       user.user_name      = member[:userName]
       user.league_manager = member[:isLeagueManager]
+      user.league_id      = @league_data[:metadata][:leagueId]
       success = user.save
       @new_user_count += 1 if success
     end
@@ -37,7 +38,7 @@ class ParseAndSave::Users < SimpleInteractor
   end
   
   def response
-    {code: @code || 200, message: @message || "#{@new_user_count} users were created."}
+    {code: @code || 200, message: @message || @league_members}
   end
   
   def invalid_league_data?

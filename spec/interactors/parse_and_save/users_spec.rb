@@ -3,18 +3,35 @@ require 'spec_helper'
 describe ParseAndSave::Users do
   describe ".perform" do
     context "given a valid set of data" do
-      it "creates users" do
+      it "creates users with 2018 data" do
         league_data = LoadLeague.perform('2018')
         expect(User.count).to eq(0)
-        response = ParseAndSave::Users.perform(league_data)
-        expect(User.count).to eq(14)
+        response = ParseAndSave::Users.perform(league_data, true)
+        expect(User.count).to eq(13)
         expect(response[:code]).to eq(200)
-        expect(response[:message]).to eq('14 users were created.')
+        expect(response[:message].size).to eq(14)
         
         user = User.where(profile_id: 17617955).first
         expect(user.first_name).to     eq('michael')
         expect(user.last_name).to      eq('rode')
         expect(user.user_name).to      eq('mjr442')
+        expect(user.league_id).to      eq(1310767)
+        expect(user.league_manager).to eq(false)
+      end
+      
+      it "creates users with 2015 data" do
+        league_data = LoadLeague.perform('2015')
+        expect(User.count).to eq(0)
+        response = ParseAndSave::Users.perform(league_data, true)
+        expect(User.count).to eq(13)
+        expect(response[:code]).to eq(200)
+        expect(response[:message].size).to eq(13)
+        
+        user = User.where(profile_id: 17617955).first
+        expect(user.first_name).to     eq('michael')
+        expect(user.last_name).to      eq('rode')
+        expect(user.user_name).to      eq('mjr442')
+        expect(user.league_id).to      eq(1310767)
         expect(user.league_manager).to eq(false)
       end
     end

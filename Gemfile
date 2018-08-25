@@ -28,7 +28,8 @@ gem 'nokogiri'
 gem 'simple_interactor', '~> 1.0.0'
 gem 'pry'
 gem 'sinatra'
-
+gem 'annotate'
+gem 'faker'
 
 group :development do
   gem "listen"
