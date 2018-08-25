@@ -26,6 +26,9 @@ gem 'webpacker'
 gem 'httparty', '~> 0.16.2'
 gem 'nokogiri'
 gem 'simple_interactor', '~> 1.0.0'
+gem 'pry'
+gem 'sinatra'
+
 
 group :development do
   gem "listen"
