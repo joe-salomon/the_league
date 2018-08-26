@@ -12,10 +12,6 @@ module Api
     
     private
     
-    def set_user
-      @user = User.find(params[:id])
-    end
-    
     def set_league_id
       @league_id = params[:league_id]
     end
@@ -23,7 +19,5 @@ module Api
     def set_year_id
       @year = params[:year]
     end
-
   end
-
 end

@@ -6,6 +6,7 @@ class Common::MakeEspnApiRequest < SimpleInteractor
   def perform
     set_request_vars
     response = request
+    puts build_uri
     check_if_valid(request)
   end
 
@@ -37,7 +38,8 @@ class Common::MakeEspnApiRequest < SimpleInteractor
       error = invalid.first
       raise ApiExceptions::RequestError::InvalidYearError if error['message'].include?('not an valid seasonId')
       raise ApiExceptions::RequestError::InvalidLeagueError if error['message'].include?('Unable to retrieve league')
-      raise ApiExceptions::RequestError
+      raise ApiExceptions::RequestError::InvalidLeagueError if error['message'].include?('No permission to view this league')
+      raise StandardError
     end
     response
   end
