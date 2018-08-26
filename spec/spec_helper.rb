@@ -12,9 +12,15 @@ end
 
 require "webmock/rspec"
 require "timecop"
+require 'pry'
 
 # http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|
+  
+  config.before(:each) do
+    stub_request(:any, /games.espn.com/).to_rack(FakeESPN)
+  end
+  
   config.expect_with :rspec do |expectations|
     expectations.syntax = :expect
   end

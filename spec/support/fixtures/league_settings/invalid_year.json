@@ -1,0 +1,8 @@
+{
+    "error": [
+        {
+            "code": "functional",
+            "message": "Error reading param: seasonId (not an valid seasonId)"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "error": [
+        {
+            "code": "functional",
+            "message": "No permission to view this league"
+        }
+    ]
+}

@@ -24,7 +24,13 @@ gem "uglifier"
 gem "bootsnap", require: false
 gem 'webpacker'
 gem 'httparty', '~> 0.16.2'
+gem 'nokogiri'
 gem 'simple_interactor', '~> 1.0.0'
+gem 'pry'
+gem 'sinatra'
+gem 'annotate'
+gem 'faker'
+gem 'active_model_serializers'
 
 group :development do
   gem "listen"
