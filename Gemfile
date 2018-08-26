@@ -30,6 +30,7 @@ gem 'pry'
 gem 'sinatra'
 gem 'annotate'
 gem 'faker'
+gem 'active_model_serializers'
 
 group :development do
   gem "listen"

@@ -4,19 +4,20 @@ require 'pry'
 class FakeESPN < Sinatra::Base
   get '/ffl/api/v2/leagueSettings?' do
     if request.params == {"leagueId"=>"1310767", "seasonId"=>"2018"}  
-      json_response 200, 'valid_league_2018.json'
+      get_response('settings_2018.json', 'league_settings')
     elsif request.params == {"leagueId"=>"1310767", "seasonId"=>"2015"}  
-      json_response 200, 'valid_league_2015.json'
+      get_response('settings_2015.json', 'league_settings')
     elsif request.params == {"leagueId"=>"1310767", "seasonId"=>"2019"}
-      json_response 201, 'invalid_league.json'
+      get_response 'invalid_year.json', 'league_settings'
+    elsif request.params == {"leagueId"=>"999999999", "seasonId"=>"2018"}
+      get_response('invalid_league.json', 'league_settings')
     end
   end
 
   private
 
-  def json_response(response_code, file_name)
+  def get_response(file_name, folder_name)
     content_type :json
-    status response_code
-    File.open(File.dirname(__FILE__) + '/fixtures/' + file_name, 'rb').read
+    response = File.open(File.dirname(__FILE__) + "/fixtures/#{folder_name}/" + file_name, 'rb').read
   end
 end

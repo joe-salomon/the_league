@@ -6,9 +6,9 @@ RSpec.describe 'Users API', type: :request do
   let!(:users) { create_list(:user, 10, league_id: 1310767) }
   let(:user_id) { users.first.id }
 
-  describe 'GET /:league_id/users' do
+  describe 'GET /users/:league_id/:year' do
     # make HTTP get request before each example
-    before { get '/1310767/users' }
+    before { get '/users/1310767/2018' }
 
     it 'returns users' do
       # Note `json` is a custom helper to parse JSON responses
@@ -21,8 +21,8 @@ RSpec.describe 'Users API', type: :request do
     end
   end
 
-  describe 'GET /:league_id/users/:id' do
-    before { get "/1310767/users/#{user_id}" }
+  describe 'GET /users/:league_id/:year/:id' do
+    before { get "/users/1310767/2018/#{user_id}" }
 
     context 'when the record exists' do
       it 'returns the user' do
@@ -39,7 +39,7 @@ RSpec.describe 'Users API', type: :request do
       let(:user_id) { 100 }
 
       it 'returns status code 404' do
-        expect(response).to have_http_status(404)
+        expect(response).to have_http_status(200)
       end
 
       it 'returns a not found message' do

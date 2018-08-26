@@ -1,12 +1,12 @@
 require 'spec_helper'
 
-describe ParseAndSave::Users do
+describe ParseOrSave::Users do
   describe ".perform" do
     context "given a valid set of data" do
       it "creates users with 2018 data" do
         league_data = LoadLeague.perform('2018')
         expect(User.count).to eq(0)
-        response = ParseAndSave::Users.perform(league_data, true)
+        response = ParseOrSave::Users.perform(league_data, true)
         expect(User.count).to eq(13)
         expect(response[:code]).to eq(200)
         expect(response[:message].size).to eq(14)
@@ -22,7 +22,7 @@ describe ParseAndSave::Users do
       it "creates users with 2015 data" do
         league_data = LoadLeague.perform('2015')
         expect(User.count).to eq(0)
-        response = ParseAndSave::Users.perform(league_data, true)
+        response = ParseOrSave::Users.perform(league_data, true)
         expect(User.count).to eq(13)
         expect(response[:code]).to eq(200)
         expect(response[:message].size).to eq(13)
@@ -40,7 +40,7 @@ describe ParseAndSave::Users do
       it "fails to create users" do
         league_data = LoadLeague.perform('2019')
         expect(User.count).to eq(0)
-        response = ParseAndSave::Users.perform(league_data)
+        response = ParseOrSave::Users.perform(league_data)
         expect(User.count).to eq(0)
         expect(response[:code]).to eq(201)
         expect(response[:message]).to eq('You have passed invalid league data. please check that the league_id and year are correct.')

@@ -3,7 +3,10 @@ Rails.application.routes.draw do
 
   root 'welcome#index'
   
-  resources :users, path: '/:league_id/users' do
-    
+  namespace :api do
+    resources :users, path: '/users/:league_id(/:year)'
   end
+    
+  resources :users, path: '/users/:league_id(/:year)'
+      
 end

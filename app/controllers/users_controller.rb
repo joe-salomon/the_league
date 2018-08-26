@@ -5,7 +5,7 @@ class UsersController < ApplicationController
 
   def index
     league_data = LoadLeague.perform(Date.today.year, @league_id)
-    ParseAndSave::Users.perform(league_data)
+    ParseOrSave::Users.perform(league_data)
     @users = User.where(league_id: @league_id)
     json_response @users
   end

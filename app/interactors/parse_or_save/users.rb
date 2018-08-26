@@ -1,4 +1,4 @@
-class ParseAndSave::Users < SimpleInteractor
+class ParseOrSave::Users < SimpleInteractor
 
   expected_params :league_data, :save
 
@@ -6,7 +6,7 @@ class ParseAndSave::Users < SimpleInteractor
     return response if invalid_league_data?  
     symbolize_keys
     parse_league_members
-    find_or_create_users
+    find_or_create_users if @save
     response
   end
 
@@ -18,7 +18,7 @@ class ParseAndSave::Users < SimpleInteractor
   
   def find_or_create_users
     @new_user_count = 0
-    @league_members.each{|member| find_or_create_user(member)} if @save
+    @league_members.each{|member| find_or_create_user(member)}
   end
   
   def find_or_create_user(member)
