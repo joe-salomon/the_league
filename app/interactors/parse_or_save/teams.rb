@@ -1,4 +1,4 @@
-class ParseOrSave::Users < SimpleInteractor
+class ParseOrSave::Teams < SimpleInteractor
 
   expected_params :league_data, :save
 
@@ -6,7 +6,7 @@ class ParseOrSave::Users < SimpleInteractor
     return response if invalid_league_data?  
     symbolize_keys
     parse_league_members
-    find_or_create_users if @save
+    find_or_create_teams if @save
     response
   end
 
@@ -16,20 +16,20 @@ class ParseOrSave::Users < SimpleInteractor
     @league_members = @league_data[:leaguesettings][:leagueMembers]
   end
   
-  def find_or_create_users
-    @new_user_count = 0
-    @league_members.each{|member| find_or_create_user(member)}
+  def find_or_create_teams
+    @new_team_count = 0
+    @league_members.each{|member| find_or_create_team(member)}
   end
   
-  def find_or_create_user(member)
-    user = User.find_or_create_by(profile_id: member[:userProfileId]) do |user|
-      user.first_name     = member[:firstName]
-      user.last_name      = member[:lastName]
-      user.user_name      = member[:userName]
-      user.league_manager = member[:isLeagueManager]
-      user.league_id      = @league_data[:metadata][:leagueId]
-      success = user.save
-      @new_user_count += 1 if success
+  def find_or_create_team(member)
+    team = Team.find_or_create_by(profile_id: member[:teamProfileId]) do |team|
+      team.first_name     = member[:firstName]
+      team.last_name      = member[:lastName]
+      team.user_name      = member[:teamName]
+      team.league_manager = member[:isLeagueManager]
+      team.league_id      = @league_data[:metadata][:leagueId]
+      success = team.save
+      @new_team_count += 1 if success
     end
   end
   

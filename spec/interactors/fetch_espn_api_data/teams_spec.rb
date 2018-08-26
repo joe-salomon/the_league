@@ -15,9 +15,9 @@ describe FetchEspnApiData::Team do
         expect(team["lastName"]).to eq("rode")
         expect(team["isLeagueCreator"]).to eq(true)
         expect(team["inviteId"]).to eq(0)
-        expect(team["userProfileId"]).to eq(17617955)
+        expect(team["teamProfileId"]).to eq(17617955)
         expect(team["isLeagueManager"]).to eq(false)
-        expect(team["userName"]).to eq("mjr442")
+        expect(team["teamName"]).to eq("mjr442")
         expect(team["leagueId"]).to eq("1310767")
       end
       
@@ -28,9 +28,9 @@ describe FetchEspnApiData::Team do
         expect(team["lastName"]).to eq("rode")
         expect(team["isLeagueCreator"]).to eq(true)
         expect(team["inviteId"]).to eq(0)
-        expect(team["userProfileId"]).to eq(17617955)
+        expect(team["teamProfileId"]).to eq(17617955)
         expect(team["isLeagueManager"]).to eq(false)
-        expect(team["userName"]).to eq("mjr442")
+        expect(team["teamName"]).to eq("mjr442")
         expect(team["leagueId"]).to eq("1310767")
       end
     end

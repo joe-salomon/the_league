@@ -1,5 +1,5 @@
 module Api
-  class UsersController < ApplicationController
+  class TeamsController < ApplicationController
     before_action :set_league_id, :set_year_id
 
     def index

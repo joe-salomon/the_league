@@ -970,113 +970,113 @@
                 "lastName": "rode",
                 "isLeagueCreator": true,
                 "inviteId": 0,
-                "userProfileId": 17617955,
+                "teamProfileId": 17617955,
                 "isLeagueManager": false,
-                "userName": "mjr442"
+                "teamName": "mjr442"
             },
             {
                 "firstName": "Houston ",
                 "lastName": "Vann",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 22740047,
+                "teamProfileId": 22740047,
                 "isLeagueManager": false,
-                "userName": "hav9785"
+                "teamName": "hav9785"
             },
             {
                 "firstName": "jeff",
                 "lastName": "mcmillen",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 19473546,
+                "teamProfileId": 19473546,
                 "isLeagueManager": false,
-                "userName": "jmac2924"
+                "teamName": "jmac2924"
             },
             {
                 "firstName": "Annie",
                 "lastName": "Haywood",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 31321087,
+                "teamProfileId": 31321087,
                 "isLeagueManager": false,
-                "userName": "Annie Haywood"
+                "teamName": "Annie Haywood"
             },
             {
                 "firstName": "Nathan",
                 "lastName": "Wall",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 19436471,
+                "teamProfileId": 19436471,
                 "isLeagueManager": false,
-                "userName": "Wall_Nathan"
+                "teamName": "Wall_Nathan"
             },
             {
                 "firstName": "Ashley",
                 "lastName": "Kent",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 8641863,
+                "teamProfileId": 8641863,
                 "isLeagueManager": false,
-                "userName": "akkk47"
+                "teamName": "akkk47"
             },
             {
                 "firstName": "Hunt",
                 "lastName": "Harris",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 20819167,
+                "teamProfileId": 20819167,
                 "isLeagueManager": false,
-                "userName": "shharri2"
+                "teamName": "shharri2"
             },
             {
                 "firstName": "Robert",
                 "lastName": "Van Tienen",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 19488486,
+                "teamProfileId": 19488486,
                 "isLeagueManager": false,
-                "userName": "butplugs23"
+                "teamName": "butplugs23"
             },
             {
                 "firstName": "wade",
                 "lastName": "gowdy",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 15835958,
+                "teamProfileId": 15835958,
                 "isLeagueManager": false,
-                "userName": "ectuberider"
+                "teamName": "ectuberider"
             },
             {
                 "firstName": "Carson",
                 "lastName": "Bland",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 17667686,
+                "teamProfileId": 17667686,
                 "isLeagueManager": true,
-                "userName": "ccbland"
+                "teamName": "ccbland"
             },
             {
                 "firstName": "Brett",
                 "lastName": "Lee",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 22762765,
+                "teamProfileId": 22762765,
                 "isLeagueManager": false,
-                "userName": "BroNameth88"
+                "teamName": "BroNameth88"
             },
             {
                 "firstName": "Mike",
                 "lastName": "Plage",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 19501009,
+                "teamProfileId": 19501009,
                 "isLeagueManager": false,
-                "userName": "PLAGE."
+                "teamName": "PLAGE."
             },
             {
                 "isLeagueCreator": false,
                 "inviteId": 5656,
-                "userProfileId": -1,
+                "teamProfileId": -1,
                 "isLeagueManager": false
             },
             {
@@ -1084,9 +1084,9 @@
                 "lastName": "Kent",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "userProfileId": 69373565,
+                "teamProfileId": 69373565,
                 "isLeagueManager": false,
-                "userName": "ashley.t.kent@gmail.com"
+                "teamName": "ashley.t.kent@gmail.com"
             }
         ],
         "waiverOrderSystemTypeId": 1,
@@ -1756,7 +1756,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 17617955,
+                        "teamProfileId": 17617955,
                         "ownerId": 17617955,
                         "leagueManager": true
                     }
@@ -2713,7 +2713,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 19473546,
+                        "teamProfileId": 19473546,
                         "ownerId": 19473546,
                         "leagueManager": false
                     }
@@ -3692,7 +3692,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 31321087,
+                        "teamProfileId": 31321087,
                         "ownerId": 31321087,
                         "leagueManager": false
                     },
@@ -3700,7 +3700,7 @@
                         "inviteId": 5656,
                         "joined": false,
                         "primaryOwner": false,
-                        "userProfileId": -1,
+                        "teamProfileId": -1,
                         "ownerId": -1
                     }
                 ],
@@ -4680,7 +4680,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 8641863,
+                        "teamProfileId": 8641863,
                         "ownerId": 8641863,
                         "leagueManager": false
                     },
@@ -4691,7 +4691,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": false,
-                        "userProfileId": 69373565,
+                        "teamProfileId": 69373565,
                         "ownerId": 69373565,
                         "leagueManager": false
                     }
@@ -5672,7 +5672,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 19488486,
+                        "teamProfileId": 19488486,
                         "ownerId": 19488486,
                         "leagueManager": false
                     }
@@ -6651,7 +6651,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 22740047,
+                        "teamProfileId": 22740047,
                         "ownerId": 22740047,
                         "leagueManager": false
                     }
@@ -7632,7 +7632,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 19436471,
+                        "teamProfileId": 19436471,
                         "ownerId": 19436471,
                         "leagueManager": false
                     }
@@ -8613,7 +8613,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 17667686,
+                        "teamProfileId": 17667686,
                         "ownerId": 17667686,
                         "leagueManager": true
                     }
@@ -9594,7 +9594,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 22762765,
+                        "teamProfileId": 22762765,
                         "ownerId": 22762765,
                         "leagueManager": false
                     }
@@ -10575,7 +10575,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 20819167,
+                        "teamProfileId": 20819167,
                         "ownerId": 20819167,
                         "leagueManager": false
                     }
@@ -11554,7 +11554,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 15835958,
+                        "teamProfileId": 15835958,
                         "ownerId": 15835958,
                         "leagueManager": false
                     }
@@ -12535,7 +12535,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "userProfileId": 19501009,
+                        "teamProfileId": 19501009,
                         "ownerId": 19501009,
                         "leagueManager": false
                     }
