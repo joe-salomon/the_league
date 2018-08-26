@@ -14,7 +14,7 @@ RSpec.describe 'Users API', type: :request do
       # Note `json` is a custom helper to parse JSON responses
       response.body
       expect(json).not_to be_empty
-      expect(json.size).to eq(14)
+      expect(json.size).to eq(13)
     end
 
     it 'returns status code 200' do
@@ -56,7 +56,7 @@ RSpec.describe 'Users API', type: :request do
     it 'returns users' do
       # Note `json` is a custom helper to parse JSON responses
       expect(json).not_to be_empty
-      expect(json.size).to eq(14)
+      expect(json.size).to eq(13)
     end
 
     it 'returns status code 200' do

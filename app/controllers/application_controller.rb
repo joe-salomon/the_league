@@ -19,5 +19,4 @@ class ApplicationController < ActionController::Base
   def render_error_response(error)
     render json: error, serializer: ApiExceptionSerializer, status: 200
   end
-  
 end
