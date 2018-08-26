@@ -1,9 +1,9 @@
-class FetchEspnApiData::Team < SimpleInteractor
+class FetchEspnApiData::Teams < SimpleInteractor
   expected_params :league_id, :year
   ENDPOINT = 'league_settings'
 
   def perform
-    response = Common::MakeEspnApiRequest.perform(ENDPOINT, @league_id, @year)  
+    response = Common::MakeRequest.perform(ENDPOINT, @league_id, @year) 
     format_data(response)
   end
   

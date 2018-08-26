@@ -8,7 +8,7 @@ RSpec.describe 'Teams API', type: :request do
 
   describe 'GET teams valid request /api/teams/:league_id' do
     # make HTTP get request before each example
-    before { get '/api/teams/1310767' }
+    before { get '/api/teams/1310767/2018' }
     
     it 'returns teams' do
       # Note `json` is a custom helper to parse JSON responses

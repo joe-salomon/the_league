@@ -3,7 +3,7 @@ module Api
     before_action :set_league_id, :set_year_id
 
     def index
-      response = FetchEspnApiData::Team.perform(@league_id, @year)
+      response = FetchEspnApiData::Teams.perform(@league_id, @year)
       json_response response
     end
     

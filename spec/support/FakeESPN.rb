@@ -11,6 +11,8 @@ class FakeESPN < Sinatra::Base
       get_response 'invalid_year.json', 'league_settings'
     elsif request.params == {"leagueId"=>"999999999", "seasonId"=>"2018"}
       get_response('invalid_league.json', 'league_settings')
+    elsif 
+      get_response('404_response.html','league_settings')
     end
   end
 
