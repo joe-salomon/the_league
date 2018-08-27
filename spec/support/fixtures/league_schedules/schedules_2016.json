@@ -1,0 +1,4300 @@
+{
+    "leagueSchedule": {
+        "regularSeasonMatchupLength": 1,
+        "scoringTypeId": 1,
+        "scheduleItems": [
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "awayTeamScores": [
+                            131.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 9,
+                        "awayTeamId": 8,
+                        "homeTeamScores": [
+                            103
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "awayTeamScores": [
+                            97.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 4,
+                        "awayTeamId": 6,
+                        "homeTeamScores": [
+                            90
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "awayTeamScores": [
+                            116
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 1,
+                        "awayTeamId": 11,
+                        "homeTeamScores": [
+                            118
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "awayTeamScores": [
+                            101
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 12,
+                        "awayTeamId": 7,
+                        "homeTeamScores": [
+                            114
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "awayTeamScores": [
+                            86.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 3,
+                        "awayTeamId": 2,
+                        "homeTeamScores": [
+                            130.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "awayTeamScores": [
+                            114.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 5,
+                        "awayTeamId": 10,
+                        "homeTeamScores": [
+                            75.5
+                        ],
+                        "outcome": 2
+                    }
+                ],
+                "matchupPeriodId": 1
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "awayTeamScores": [
+                            65.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 8,
+                        "awayTeamId": 6,
+                        "homeTeamScores": [
+                            106
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "awayTeamScores": [
+                            117.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 11,
+                        "awayTeamId": 9,
+                        "homeTeamScores": [
+                            89.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "awayTeamScores": [
+                            87
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 1,
+                        "awayTeamId": 4,
+                        "homeTeamScores": [
+                            147
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "awayTeamScores": [
+                            89
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 7,
+                        "awayTeamId": 2,
+                        "homeTeamScores": [
+                            121.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "awayTeamScores": [
+                            93
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 10,
+                        "awayTeamId": 12,
+                        "homeTeamScores": [
+                            90
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "awayTeamScores": [
+                            114
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 5,
+                        "awayTeamId": 3,
+                        "homeTeamScores": [
+                            86
+                        ],
+                        "outcome": 2
+                    }
+                ],
+                "matchupPeriodId": 2
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "awayTeamScores": [
+                            114.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 11,
+                        "awayTeamId": 8,
+                        "homeTeamScores": [
+                            141.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "awayTeamScores": [
+                            64
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 6,
+                        "awayTeamId": 1,
+                        "homeTeamScores": [
+                            106
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "awayTeamScores": [
+                            104
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 9,
+                        "awayTeamId": 4,
+                        "homeTeamScores": [
+                            84.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "awayTeamScores": [
+                            123.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 10,
+                        "awayTeamId": 7,
+                        "homeTeamScores": [
+                            86.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "awayTeamScores": [
+                            105.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 2,
+                        "awayTeamId": 5,
+                        "homeTeamScores": [
+                            108.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "awayTeamScores": [
+                            143
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 12,
+                        "awayTeamId": 3,
+                        "homeTeamScores": [
+                            115
+                        ],
+                        "outcome": 2
+                    }
+                ],
+                "matchupPeriodId": 3
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "awayTeamScores": [
+                            140
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 8,
+                        "awayTeamId": 1,
+                        "homeTeamScores": [
+                            75.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "awayTeamScores": [
+                            97.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 4,
+                        "awayTeamId": 11,
+                        "homeTeamScores": [
+                            94
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "awayTeamScores": [
+                            111.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 9,
+                        "awayTeamId": 6,
+                        "homeTeamScores": [
+                            81
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "awayTeamScores": [
+                            114
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 7,
+                        "awayTeamId": 5,
+                        "homeTeamScores": [
+                            109
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "awayTeamScores": [
+                            79
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 3,
+                        "awayTeamId": 10,
+                        "homeTeamScores": [
+                            126
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "awayTeamScores": [
+                            114
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 12,
+                        "awayTeamId": 2,
+                        "homeTeamScores": [
+                            55
+                        ],
+                        "outcome": 2
+                    }
+                ],
+                "matchupPeriodId": 4
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "awayTeamScores": [
+                            136.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 4,
+                        "awayTeamId": 8,
+                        "homeTeamScores": [
+                            90
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "awayTeamScores": [
+                            100.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 1,
+                        "awayTeamId": 9,
+                        "homeTeamScores": [
+                            72
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "awayTeamScores": [
+                            82
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 11,
+                        "awayTeamId": 6,
+                        "homeTeamScores": [
+                            122
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "awayTeamScores": [
+                            120.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 3,
+                        "awayTeamId": 7,
+                        "homeTeamScores": [
+                            80
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "awayTeamScores": [
+                            99.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 5,
+                        "awayTeamId": 12,
+                        "homeTeamScores": [
+                            129
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "awayTeamScores": [
+                            100.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 10,
+                        "awayTeamId": 2,
+                        "homeTeamScores": [
+                            76
+                        ],
+                        "outcome": 2
+                    }
+                ],
+                "matchupPeriodId": 5
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "awayTeamScores": [
+                            98
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 8,
+                        "awayTeamId": 7,
+                        "homeTeamScores": [
+                            145
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "awayTeamScores": [
+                            66.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 9,
+                        "awayTeamId": 12,
+                        "homeTeamScores": [
+                            69
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "awayTeamScores": [
+                            70.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 6,
+                        "awayTeamId": 2,
+                        "homeTeamScores": [
+                            119
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "awayTeamScores": [
+                            95.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 11,
+                        "awayTeamId": 10,
+                        "homeTeamScores": [
+                            147
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "awayTeamScores": [
+                            78
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 1,
+                        "awayTeamId": 5,
+                        "homeTeamScores": [
+                            106.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "awayTeamScores": [
+                            76.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 4,
+                        "awayTeamId": 3,
+                        "homeTeamScores": [
+                            77
+                        ],
+                        "outcome": 1
+                    }
+                ],
+                "matchupPeriodId": 6
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "awayTeamScores": [
+                            70
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 7,
+                        "awayTeamId": 9,
+                        "homeTeamScores": [
+                            108.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "awayTeamScores": [
+                            110
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 12,
+                        "awayTeamId": 6,
+                        "homeTeamScores": [
+                            85.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "awayTeamScores": [
+                            117
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 2,
+                        "awayTeamId": 11,
+                        "homeTeamScores": [
+                            95.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "awayTeamScores": [
+                            95.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 10,
+                        "awayTeamId": 1,
+                        "homeTeamScores": [
+                            96
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "awayTeamScores": [
+                            114
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 5,
+                        "awayTeamId": 4,
+                        "homeTeamScores": [
+                            100.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "awayTeamScores": [
+                            55.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 3,
+                        "awayTeamId": 8,
+                        "homeTeamScores": [
+                            119
+                        ],
+                        "outcome": 1
+                    }
+                ],
+                "matchupPeriodId": 7
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "awayTeamScores": [
+                            72
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 6,
+                        "awayTeamId": 7,
+                        "homeTeamScores": [
+                            124.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "awayTeamScores": [
+                            91.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 11,
+                        "awayTeamId": 12,
+                        "homeTeamScores": [
+                            103.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "awayTeamScores": [
+                            111
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 1,
+                        "awayTeamId": 2,
+                        "homeTeamScores": [
+                            109.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "awayTeamScores": [
+                            108.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 4,
+                        "awayTeamId": 10,
+                        "homeTeamScores": [
+                            99
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "awayTeamScores": [
+                            103
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 8,
+                        "awayTeamId": 5,
+                        "homeTeamScores": [
+                            70.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "awayTeamScores": [
+                            67
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 9,
+                        "awayTeamId": 3,
+                        "homeTeamScores": [
+                            76
+                        ],
+                        "outcome": 1
+                    }
+                ],
+                "matchupPeriodId": 8
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "awayTeamScores": [
+                            113
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 7,
+                        "awayTeamId": 11,
+                        "homeTeamScores": [
+                            105.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "awayTeamScores": [
+                            110.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 12,
+                        "awayTeamId": 1,
+                        "homeTeamScores": [
+                            88.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "awayTeamScores": [
+                            131
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 2,
+                        "awayTeamId": 4,
+                        "homeTeamScores": [
+                            85.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "awayTeamScores": [
+                            130
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 10,
+                        "awayTeamId": 8,
+                        "homeTeamScores": [
+                            101.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "awayTeamScores": [
+                            108
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 5,
+                        "awayTeamId": 9,
+                        "homeTeamScores": [
+                            101
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "awayTeamScores": [
+                            84
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 3,
+                        "awayTeamId": 6,
+                        "homeTeamScores": [
+                            101.5
+                        ],
+                        "outcome": 1
+                    }
+                ],
+                "matchupPeriodId": 9
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "awayTeamScores": [
+                            91
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 1,
+                        "awayTeamId": 7,
+                        "homeTeamScores": [
+                            103.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "awayTeamScores": [
+                            113
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 4,
+                        "awayTeamId": 12,
+                        "homeTeamScores": [
+                            96.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "awayTeamScores": [
+                            86
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 8,
+                        "awayTeamId": 2,
+                        "homeTeamScores": [
+                            132.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "awayTeamScores": [
+                            102
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 9,
+                        "awayTeamId": 10,
+                        "homeTeamScores": [
+                            104.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "awayTeamScores": [
+                            86
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 6,
+                        "awayTeamId": 5,
+                        "homeTeamScores": [
+                            93
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "awayTeamScores": [
+                            124.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 11,
+                        "awayTeamId": 3,
+                        "homeTeamScores": [
+                            89.5
+                        ],
+                        "outcome": 2
+                    }
+                ],
+                "matchupPeriodId": 10
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "awayTeamScores": [
+                            101
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 7,
+                        "awayTeamId": 4,
+                        "homeTeamScores": [
+                            81.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "awayTeamScores": [
+                            102
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 12,
+                        "awayTeamId": 8,
+                        "homeTeamScores": [
+                            60.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "awayTeamScores": [
+                            109.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 2,
+                        "awayTeamId": 9,
+                        "homeTeamScores": [
+                            108
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "awayTeamScores": [
+                            61
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 10,
+                        "awayTeamId": 6,
+                        "homeTeamScores": [
+                            111
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "awayTeamScores": [
+                            105
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 5,
+                        "awayTeamId": 11,
+                        "homeTeamScores": [
+                            92.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "awayTeamScores": [
+                            90
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 3,
+                        "awayTeamId": 1,
+                        "homeTeamScores": [
+                            97.5
+                        ],
+                        "outcome": 1
+                    }
+                ],
+                "matchupPeriodId": 11
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "awayTeamScores": [
+                            98.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 7,
+                        "awayTeamId": 8,
+                        "homeTeamScores": [
+                            92
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "awayTeamScores": [
+                            92
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 12,
+                        "awayTeamId": 9,
+                        "homeTeamScores": [
+                            112.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "awayTeamScores": [
+                            79.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 2,
+                        "awayTeamId": 6,
+                        "homeTeamScores": [
+                            87
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "awayTeamScores": [
+                            129
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 10,
+                        "awayTeamId": 11,
+                        "homeTeamScores": [
+                            79.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "awayTeamScores": [
+                            101
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 5,
+                        "awayTeamId": 1,
+                        "homeTeamScores": [
+                            90.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "awayTeamScores": [
+                            81.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 3,
+                        "awayTeamId": 4,
+                        "homeTeamScores": [
+                            118
+                        ],
+                        "outcome": 1
+                    }
+                ],
+                "matchupPeriodId": 12
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "awayTeamScores": [
+                            127.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 9,
+                        "awayTeamId": 7,
+                        "homeTeamScores": [
+                            92.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "awayTeamScores": [
+                            73
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 6,
+                        "awayTeamId": 12,
+                        "homeTeamScores": [
+                            81.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "awayTeamScores": [
+                            103.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 11,
+                        "awayTeamId": 2,
+                        "homeTeamScores": [
+                            133
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "awayTeamScores": [
+                            82.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 1,
+                        "awayTeamId": 10,
+                        "homeTeamScores": [
+                            68.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "awayTeamScores": [
+                            86
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 4,
+                        "awayTeamId": 5,
+                        "homeTeamScores": [
+                            131
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "awayTeamScores": [
+                            102.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 8,
+                        "awayTeamId": 3,
+                        "homeTeamScores": [
+                            115.5
+                        ],
+                        "outcome": 1
+                    }
+                ],
+                "matchupPeriodId": 13
+            },
+            {
+                "matchups": [
+                    {
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "isBye": true,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 11,
+                        "homeTeamScores": [
+                            87.5
+                        ],
+                        "outcome": 0
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "awayTeamScores": [
+                            61.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 6,
+                        "awayTeamId": 1,
+                        "homeTeamScores": [
+                            96.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "awayTeamScores": [
+                            58.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 8,
+                        "awayTeamId": 9,
+                        "homeTeamScores": [
+                            103
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "isBye": true,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 3,
+                        "homeTeamScores": [
+                            147.5
+                        ],
+                        "outcome": 0
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 3,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "awayTeamScores": [
+                            92
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 4,
+                        "awayTeamId": 7,
+                        "homeTeamScores": [
+                            77.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 3,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "awayTeamScores": [
+                            77.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 2,
+                        "awayTeamId": 10,
+                        "homeTeamScores": [
+                            71.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 3,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "awayTeamScores": [
+                            54.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 12,
+                        "awayTeamId": 5,
+                        "homeTeamScores": [
+                            101.5
+                        ],
+                        "outcome": 1
+                    }
+                ],
+                "matchupPeriodId": 14
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "awayTeamScores": [
+                            97.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 11,
+                        "awayTeamId": 6,
+                        "homeTeamScores": [
+                            104
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "awayTeamScores": [
+                            100.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 3,
+                        "awayTeamId": 8,
+                        "homeTeamScores": [
+                            96
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 1,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "awayTeamScores": [
+                            97
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 1,
+                        "awayTeamId": 9,
+                        "homeTeamScores": [
+                            93
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 3,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "awayTeamScores": [
+                            76
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 7,
+                        "awayTeamId": 10,
+                        "homeTeamScores": [
+                            82.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 3,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "awayTeamScores": [
+                            105
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 4,
+                        "awayTeamId": 12,
+                        "homeTeamScores": [
+                            98.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 3,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "awayTeamScores": [
+                            86
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 2,
+                        "awayTeamId": 5,
+                        "homeTeamScores": [
+                            51
+                        ],
+                        "outcome": 2
+                    }
+                ],
+                "matchupPeriodId": 15
+            },
+            {
+                "matchups": [
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 0,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "BLAN",
+                            "waiverRank": 10,
+                            "teamId": 8,
+                            "teamLocation": "i've contracted",
+                            "teamNickname": "zeke-a",
+                            "logoType": "custom",
+                            "logoUrl": "http://d3j5vwomefv46c.cloudfront.net/photos/large/831199179.gif?1388607012"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "PALM",
+                            "waiverRank": 12,
+                            "teamId": 11,
+                            "teamLocation": "Palmering",
+                            "teamNickname": "Davids Johnson",
+                            "logoType": "customValid",
+                            "logoUrl": "http://bloguin.com/purplejesusdiaries/wp-content/uploads/sites/34/2013/05/purple-jesus-painting.jpg"
+                        },
+                        "awayTeamScores": [
+                            91.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 11,
+                        "awayTeamId": 8,
+                        "homeTeamScores": [
+                            120
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 1,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "HUEY",
+                            "waiverRank": 9,
+                            "teamId": 6,
+                            "teamLocation": "GURLY'S GONE",
+                            "teamNickname": "WILD",
+                            "logoType": "customValid",
+                            "logoUrl": "http://36.media.tumblr.com/0a1775bb28c431a5734bad07570c2c82/tumblr_n0jaxdKAYr1r9hvapo2_500.png"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HAYW",
+                            "waiverRank": 11,
+                            "teamId": 3,
+                            "teamLocation": "JIGGY",
+                            "teamNickname": "TITS",
+                            "logoType": "customValid",
+                            "logoUrl": "http://ficassets.fichub.com/Fox_es_es/character/124357.281x308.jpg"
+                        },
+                        "awayTeamScores": [
+                            118.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 3,
+                        "awayTeamId": 6,
+                        "homeTeamScores": [
+                            97.5
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 1,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "LEE",
+                            "waiverRank": 7,
+                            "teamId": 9,
+                            "teamLocation": "Wham Bam Thank",
+                            "teamNickname": "You Cam",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/nzo8a1/picture45104046/ALTERNATES/FREE_640/Can-Newton-dance(3)"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "RODE",
+                            "waiverRank": 8,
+                            "teamId": 1,
+                            "teamLocation": "Network",
+                            "teamNickname": "Interferewentz ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i.imgur.com/NTlNDCJ.png"
+                        },
+                        "awayTeamScores": [
+                            109
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 1,
+                        "awayTeamId": 9,
+                        "homeTeamScores": [
+                            98
+                        ],
+                        "outcome": 2
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 3,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MMFB",
+                            "waiverRank": 2,
+                            "teamId": 12,
+                            "teamLocation": "Monkey Mike and",
+                            "teamNickname": "the FunchyBunch",
+                            "logoType": "customValid",
+                            "logoUrl": "http://www.charlotteobserver.com/sports/nfl/carolina-panthers/e3ug4/picture54338790/ALTERNATES/FREE_640/TAMPA_PANTHERS0103_346"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "WALL",
+                            "waiverRank": 5,
+                            "teamId": 7,
+                            "teamLocation": "Flash Gordon n",
+                            "teamNickname": "Fatboy Slim",
+                            "logoType": "custom",
+                            "logoUrl": "http://gph.is/2eHZiDq"
+                        },
+                        "awayTeamScores": [
+                            96
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 7,
+                        "awayTeamId": 12,
+                        "homeTeamScores": [
+                            113.5
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 3,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "Slim",
+                            "waiverRank": 1,
+                            "teamId": 5,
+                            "teamLocation": "Marshall ",
+                            "teamNickname": "Matters ",
+                            "logoType": "customValid",
+                            "logoUrl": "http://i281.photobucket.com/albums/kk213/ChristmasCandy4445/ChefBoyardeez.jpg"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "HARR",
+                            "waiverRank": 3,
+                            "teamId": 10,
+                            "teamLocation": "Team",
+                            "teamNickname": "OneofOne",
+                            "logoType": "customValid",
+                            "logoUrl": "http://football.razzball.com/files/2014/10/BwjISLvIAAAlpJL.jpg"
+                        },
+                        "awayTeamScores": [
+                            73.5
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 10,
+                        "awayTeamId": 5,
+                        "homeTeamScores": [
+                            91
+                        ],
+                        "outcome": 1
+                    },
+                    {
+                        "awayTeamAdjustment": 0,
+                        "homeTeamAdjustment": 0,
+                        "matchupTypeId": 3,
+                        "awayTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "West",
+                                "divisionId": 1
+                            },
+                            "teamAbbrev": "MCMI",
+                            "waiverRank": 4,
+                            "teamId": 2,
+                            "teamLocation": "Donte Stop",
+                            "teamNickname": "Sucking Dis Dak"
+                        },
+                        "isBye": false,
+                        "homeTeam": {
+                            "division": {
+                                "size": 6,
+                                "divisionName": "East",
+                                "divisionId": 0
+                            },
+                            "teamAbbrev": "AK47",
+                            "waiverRank": 6,
+                            "teamId": 4,
+                            "teamLocation": "Team",
+                            "teamNickname": "AK47",
+                            "logoType": "vector",
+                            "logoUrl": "http://g.espncdn.com/s/ffllm/logos/TeamKinny-MartinLaksman/TeamKinny-01.svg"
+                        },
+                        "awayTeamScores": [
+                            84
+                        ],
+                        "homeTeamBonus": 0,
+                        "homeTeamId": 4,
+                        "awayTeamId": 2,
+                        "homeTeamScores": [
+                            127.5
+                        ],
+                        "outcome": 1
+                    }
+                ],
+                "matchupPeriodId": 16
+            }
+        ],
+        "seasonId": 2016,
+        "leagueId": 1310767,
+        "playoffMatchupLength": 1,
+        "matchupPeriodTypeId": 1,
+        "playoffTeamCount": 6,
+        "regularSeasonMatchupPeriodCount": 13
+    },
+    "metadata": {
+        "serverDate": "2018-08-27T01:27:12.856Z",
+        "defaults": {},
+        "seasonId": "2016",
+        "leagueId": "1310767",
+        "dateModifiedLeague": "2017-04-17T08:41:19.620Z",
+        "status": "offseason"
+    }
+}

@@ -36,10 +36,9 @@ class Common::MakeRequest < SimpleInteractor
   end
   
   def raise_error(error)
-    raise ApiExceptions::RequestError::InvalidYearError if error['message'].include?('not an valid seasonId')
+    raise ApiExceptions::RequestError::InvalidYearError   if error['message'].include?('not an valid seasonId')
     raise ApiExceptions::RequestError::InvalidLeagueError if error['message'].include?('Unable to retrieve league')
     raise ApiExceptions::RequestError::PrivateLeagueError if error['message'].include?('No permission to view this league')
-    raise StandardError
   end
   
   def map_endpoints
