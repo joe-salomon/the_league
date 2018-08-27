@@ -972,7 +972,7 @@
                 "inviteId": 0,
                 "userProfileId": 17617955,
                 "isLeagueManager": false,
-                "userName": "mjr442"
+                "teamName": "mjr442"
             },
             {
                 "firstName": "Houston ",
@@ -981,7 +981,7 @@
                 "inviteId": 0,
                 "userProfileId": 22740047,
                 "isLeagueManager": false,
-                "userName": "hav9785"
+                "teamName": "hav9785"
             },
             {
                 "firstName": "jeff",
@@ -990,7 +990,7 @@
                 "inviteId": 0,
                 "userProfileId": 19473546,
                 "isLeagueManager": false,
-                "userName": "jmac2924"
+                "teamName": "jmac2924"
             },
             {
                 "firstName": "Annie",
@@ -999,7 +999,7 @@
                 "inviteId": 0,
                 "userProfileId": 31321087,
                 "isLeagueManager": false,
-                "userName": "Annie Haywood"
+                "teamName": "Annie Haywood"
             },
             {
                 "firstName": "Nathan",
@@ -1008,7 +1008,7 @@
                 "inviteId": 0,
                 "userProfileId": 19436471,
                 "isLeagueManager": false,
-                "userName": "Wall_Nathan"
+                "teamName": "Wall_Nathan"
             },
             {
                 "firstName": "Ashley",
@@ -1017,7 +1017,7 @@
                 "inviteId": 0,
                 "userProfileId": 8641863,
                 "isLeagueManager": false,
-                "userName": "akkk47"
+                "teamName": "akkk47"
             },
             {
                 "firstName": "Hunt",
@@ -1026,7 +1026,7 @@
                 "inviteId": 0,
                 "userProfileId": 20819167,
                 "isLeagueManager": false,
-                "userName": "shharri2"
+                "teamName": "shharri2"
             },
             {
                 "firstName": "Robert",
@@ -1035,7 +1035,7 @@
                 "inviteId": 0,
                 "userProfileId": 19488486,
                 "isLeagueManager": false,
-                "userName": "butplugs23"
+                "teamName": "butplugs23"
             },
             {
                 "firstName": "wade",
@@ -1044,7 +1044,7 @@
                 "inviteId": 0,
                 "userProfileId": 15835958,
                 "isLeagueManager": false,
-                "userName": "ectuberider"
+                "teamName": "ectuberider"
             },
             {
                 "firstName": "Carson",
@@ -1053,7 +1053,7 @@
                 "inviteId": 0,
                 "userProfileId": 17667686,
                 "isLeagueManager": true,
-                "userName": "ccbland"
+                "teamName": "ccbland"
             },
             {
                 "firstName": "Brett",
@@ -1062,7 +1062,7 @@
                 "inviteId": 0,
                 "userProfileId": 22762765,
                 "isLeagueManager": false,
-                "userName": "BroNameth88"
+                "teamName": "BroNameth88"
             },
             {
                 "firstName": "Mike",
@@ -1071,7 +1071,7 @@
                 "inviteId": 0,
                 "userProfileId": 19501009,
                 "isLeagueManager": false,
-                "userName": "PLAGE."
+                "teamName": "PLAGE."
             },
             {
                 "isLeagueCreator": false,
@@ -1086,7 +1086,7 @@
                 "inviteId": 0,
                 "userProfileId": 69373565,
                 "isLeagueManager": false,
-                "userName": "ashley.t.kent@gmail.com"
+                "teamName": "ashley.t.kent@gmail.com"
             }
         ],
         "waiverOrderSystemTypeId": 1,

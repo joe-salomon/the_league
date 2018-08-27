@@ -1,5 +1,5 @@
 FactoryBot.define do
-  factory :user do
+  factory :team do
     first_name { Faker::Name.first_name }
     last_name { Faker::Name.last_name }
     profile_id { Faker::Number.number(10) }

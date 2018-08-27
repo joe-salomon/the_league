@@ -12,7 +12,6 @@ module ApiExceptions
         ERROR_DESCRIPTION.call(3001, "This is not a valid league_id."),
       "RequestError::PrivateLeagueError" =>
         ERROR_DESCRIPTION.call(4000, "This is league is private.")
-
     }
 
     def initialize

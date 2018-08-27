@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_08_12_004712) do
+ActiveRecord::Schema.define(version: 2018_08_25_185510) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -28,6 +28,17 @@ ActiveRecord::Schema.define(version: 2018_08_12_004712) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.index ["priority", "run_at"], name: "delayed_jobs_priority"
+  end
+
+  create_table "teams", force: :cascade do |t|
+    t.string "first_name"
+    t.string "last_name"
+    t.bigint "profile_id"
+    t.string "user_name"
+    t.boolean "league_manager"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.bigint "league_id"
   end
 
 end

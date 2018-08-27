@@ -4,9 +4,9 @@ Rails.application.routes.draw do
   root 'welcome#index'
   
   namespace :api do
-    resources :users, path: '/users/:league_id(/:year)'
+    resources :teams, path: '/teams/:league_id(/:year)'
   end
     
-  resources :users, path: '/users/:league_id(/:year)'
+  resources :teams, path: '/teams/:league_id(/:year)'
       
 end

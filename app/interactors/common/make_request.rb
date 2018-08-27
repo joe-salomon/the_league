@@ -1,12 +1,10 @@
-class Common::MakeEspnApiRequest < SimpleInteractor
+class Common::MakeRequest < SimpleInteractor
 
   expected_params :endpoint, :league_id, :year
   # required_params :endpoint
 
   def perform
     set_request_vars
-    response = request
-    puts build_uri
     check_if_valid(request)
   end
 
@@ -14,10 +12,9 @@ class Common::MakeEspnApiRequest < SimpleInteractor
   
   def set_request_vars
     endpoint   = map_endpoints[@endpoint.to_sym]
-    # TODO: Return error if endpoint mapping is nil
     @path      = "/ffl/api/v2/#{endpoint}"
-    @league_id = @league_id || '1310767'
-    @year      = @year || Date.today.year
+    @league_id = @league_id
+    @year      = @year
   end
   
   def build_uri
@@ -33,19 +30,18 @@ class Common::MakeEspnApiRequest < SimpleInteractor
   end
   
   def check_if_valid(response)
-    invalid = response['error']
-    if invalid
-      error = invalid.first
-      raise ApiExceptions::RequestError::InvalidYearError if error['message'].include?('not an valid seasonId')
-      raise ApiExceptions::RequestError::InvalidLeagueError if error['message'].include?('Unable to retrieve league')
-      raise ApiExceptions::RequestError::InvalidLeagueError if error['message'].include?('No permission to view this league')
-      raise StandardError
-    end
+    error = response['error']
+    raise_error(error.first) if error
     response
   end
   
+  def raise_error(error)
+    raise ApiExceptions::RequestError::InvalidYearError   if error['message'].include?('not an valid seasonId')
+    raise ApiExceptions::RequestError::InvalidLeagueError if error['message'].include?('Unable to retrieve league')
+    raise ApiExceptions::RequestError::PrivateLeagueError if error['message'].include?('No permission to view this league')
+  end
+  
   def map_endpoints
-    # the repetitive mapping is for documenting open endpoints
     {
       player_news: 'player/news',
       recent_activity: 'recentActivity',
@@ -59,6 +55,5 @@ class Common::MakeEspnApiRequest < SimpleInteractor
       teams_pending_move_batches: 'teams/pendingMoveBatches',
       league_settings: 'leagueSettings'
     }
-    
   end
 end
