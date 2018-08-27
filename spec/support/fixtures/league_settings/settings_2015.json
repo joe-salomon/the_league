@@ -714,7 +714,7 @@
                 "lastName": "rode",
                 "isLeagueCreator": true,
                 "inviteId": 0,
-                "teamProfileId": 17617955,
+                "userProfileId": 17617955,
                 "isLeagueManager": false,
                 "teamName": "mjr442"
             },
@@ -723,7 +723,7 @@
                 "lastName": "Vann",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 22740047,
+                "userProfileId": 22740047,
                 "isLeagueManager": false,
                 "teamName": "hav9785"
             },
@@ -732,7 +732,7 @@
                 "lastName": "mcmillen",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 19473546,
+                "userProfileId": 19473546,
                 "isLeagueManager": false,
                 "teamName": "jmac2924"
             },
@@ -741,7 +741,7 @@
                 "lastName": "Haywood",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 31321087,
+                "userProfileId": 31321087,
                 "isLeagueManager": false,
                 "teamName": "Annie Haywood"
             },
@@ -750,7 +750,7 @@
                 "lastName": "Wall",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 19436471,
+                "userProfileId": 19436471,
                 "isLeagueManager": false,
                 "teamName": "Wall_Nathan"
             },
@@ -759,7 +759,7 @@
                 "lastName": "Kent",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 8641863,
+                "userProfileId": 8641863,
                 "isLeagueManager": false,
                 "teamName": "akkk47"
             },
@@ -768,7 +768,7 @@
                 "lastName": "Harris",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 20819167,
+                "userProfileId": 20819167,
                 "isLeagueManager": false,
                 "teamName": "shharri2"
             },
@@ -777,7 +777,7 @@
                 "lastName": "Van Tienen",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 19488486,
+                "userProfileId": 19488486,
                 "isLeagueManager": false,
                 "teamName": "butplugs23"
             },
@@ -786,7 +786,7 @@
                 "lastName": "gowdy",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 15835958,
+                "userProfileId": 15835958,
                 "isLeagueManager": false,
                 "teamName": "ectuberider"
             },
@@ -795,7 +795,7 @@
                 "lastName": "Bland",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 17667686,
+                "userProfileId": 17667686,
                 "isLeagueManager": true,
                 "teamName": "ccbland"
             },
@@ -804,7 +804,7 @@
                 "lastName": "Lee",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 22762765,
+                "userProfileId": 22762765,
                 "isLeagueManager": false,
                 "teamName": "BroNameth88"
             },
@@ -813,7 +813,7 @@
                 "lastName": "Plage",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 19501009,
+                "userProfileId": 19501009,
                 "isLeagueManager": false,
                 "teamName": "PLAGE."
             },
@@ -822,7 +822,7 @@
                 "lastName": "Kent",
                 "isLeagueCreator": false,
                 "inviteId": 0,
-                "teamProfileId": 69373565,
+                "userProfileId": 69373565,
                 "isLeagueManager": false,
                 "teamName": "ashley.t.kent@gmail.com"
             }
@@ -1592,7 +1592,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 17617955,
+                        "userProfileId": 17617955,
                         "ownerId": 17617955,
                         "leagueManager": true
                     }
@@ -2427,7 +2427,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 19473546,
+                        "userProfileId": 19473546,
                         "ownerId": 19473546,
                         "leagueManager": false
                     }
@@ -3288,7 +3288,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 31321087,
+                        "userProfileId": 31321087,
                         "ownerId": 31321087,
                         "leagueManager": false
                     }
@@ -4149,7 +4149,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 8641863,
+                        "userProfileId": 8641863,
                         "ownerId": 8641863,
                         "leagueManager": false
                     },
@@ -4160,7 +4160,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": false,
-                        "teamProfileId": 69373565,
+                        "userProfileId": 69373565,
                         "ownerId": 69373565,
                         "leagueManager": false
                     }
@@ -5002,7 +5002,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 19488486,
+                        "userProfileId": 19488486,
                         "ownerId": 19488486,
                         "leagueManager": false
                     }
@@ -5865,7 +5865,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 22740047,
+                        "userProfileId": 22740047,
                         "ownerId": 22740047,
                         "leagueManager": false
                     }
@@ -6728,7 +6728,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 19436471,
+                        "userProfileId": 19436471,
                         "ownerId": 19436471,
                         "leagueManager": false
                     }
@@ -7591,7 +7591,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 17667686,
+                        "userProfileId": 17667686,
                         "ownerId": 17667686,
                         "leagueManager": true
                     }
@@ -8454,7 +8454,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 22762765,
+                        "userProfileId": 22762765,
                         "ownerId": 22762765,
                         "leagueManager": false
                     }
@@ -9317,7 +9317,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 20819167,
+                        "userProfileId": 20819167,
                         "ownerId": 20819167,
                         "leagueManager": false
                     }
@@ -10157,7 +10157,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 15835958,
+                        "userProfileId": 15835958,
                         "ownerId": 15835958,
                         "leagueManager": false
                     }
@@ -11020,7 +11020,7 @@
                         "inviteId": 0,
                         "joined": true,
                         "primaryOwner": true,
-                        "teamProfileId": 19501009,
+                        "userProfileId": 19501009,
                         "ownerId": 19501009,
                         "leagueManager": false
                     }

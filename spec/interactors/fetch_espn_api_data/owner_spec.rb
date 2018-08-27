@@ -15,7 +15,7 @@
 #         expect(team["lastName"]).to eq("rode")
 #         expect(team["isLeagueCreator"]).to eq(true)
 #         expect(team["inviteId"]).to eq(0)
-#         expect(team["TeamProfileId"]).to eq(17617955)
+#         expect(team["userProfileId"]).to eq(17617955)
 #         expect(team["isLeagueManager"]).to eq(false)
 #         expect(team["TeamName"]).to eq("mjr442")
 #         expect(team["leagueId"]).to eq("1310767")

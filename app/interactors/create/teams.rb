@@ -14,7 +14,7 @@ class Create::Teams < SimpleInteractor
   end
   
   def find_or_create_team(member)
-    team = Team.find_or_create_by(profile_id: member['teamProfileId']) do |team|
+    team = Team.find_or_create_by(profile_id: member['userProfileId']) do |team|
       team.first_name     = member['firstName']
       team.last_name      = member['lastName']
       team.user_name      = member['teamName']

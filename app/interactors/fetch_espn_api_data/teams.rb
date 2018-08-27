@@ -11,7 +11,7 @@ class FetchEspnApiData::Teams < SimpleInteractor
     league_id = response['metadata']['leagueId']
     team_data = response['leaguesettings']['leagueMembers']
     team_data.each{|team| team['leagueId'] = league_id}
-    team_data.select!{|team| team['teamProfileId'].to_i > 0}
+    team_data.select!{|team| team['userProfileId'].to_i > 0}
     team_data
   end
 end
